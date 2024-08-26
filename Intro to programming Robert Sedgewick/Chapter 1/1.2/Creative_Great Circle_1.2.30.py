@@ -5,6 +5,8 @@
 
 
 #1.2.30
+import math
+
 x_1 = math.radians(float(input()))
 y_1 = math.radians(float(input()))
 x_2 = math.radians(float(input()))
