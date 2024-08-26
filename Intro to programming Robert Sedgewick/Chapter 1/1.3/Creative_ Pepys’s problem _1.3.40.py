@@ -5,6 +5,7 @@
 #ton with a quick answer
 
 #1.3.40
+import random
 
 
 #How many times to run the simulation
