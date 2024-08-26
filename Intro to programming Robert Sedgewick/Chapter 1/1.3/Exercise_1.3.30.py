@@ -3,6 +3,7 @@
 #one given at the end of this section
 
 #1.3.30
+import random
 
 found = False
 
