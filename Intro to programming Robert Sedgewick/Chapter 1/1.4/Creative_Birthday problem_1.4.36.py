@@ -5,6 +5,7 @@
 
 #1.4.36
 #Birthday problem
+import random 
 
 trials = int(input())
 count1= 0
