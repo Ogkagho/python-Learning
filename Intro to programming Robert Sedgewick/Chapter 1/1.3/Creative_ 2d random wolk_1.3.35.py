@@ -8,6 +8,7 @@
 
 
 #1.3.35
+import random
 
 n = int(input())
 
