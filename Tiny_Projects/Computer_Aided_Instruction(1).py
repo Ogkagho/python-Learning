@@ -6,14 +6,6 @@ Created on Thu Aug 22 14:23:48 2024
 """
 import random
 
-def product(*args):
-    prod = 1
-    for v in args:
-        prod *= v
-    return prod
-
-product(1, 2, 4, 5)
-
 def intgenerator(c):
     num1 = random.randrange(1,10**c)
     num2 = random.randrange(1,10**c)
