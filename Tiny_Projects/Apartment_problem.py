@@ -1,6 +1,6 @@
 
 
- def maximizeProfit():
+def maximizeProfit():
      """
      Function to calculate the number of units to be rented 
      to maximize profits.
@@ -25,6 +25,9 @@
          rentOccupy += increaseRent
          
      print(f'The number of units to be rented to maximize profit is {optimalUnits} units.')
+     print(f'For a maximum profit of {maxProfit}')
+     
+maximizeProfit()
  
 
     
